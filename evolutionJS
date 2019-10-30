@@ -227,7 +227,7 @@
     "baseAtttack": "198 attack points.",
     "baseDefense": "198 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 1,
         "Name": "Bulbasaur"
@@ -383,7 +383,7 @@
     "baseAtttack": "158 attack points.",
     "baseDefense": "129 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 4,
         "Name": "Charmander"
@@ -466,7 +466,7 @@
     "baseAtttack": "223 attack points.",
     "baseDefense": "176 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 4,
         "Name": "Charmander"
@@ -616,7 +616,7 @@
     "baseAtttack": "126 attack points.",
     "baseDefense": "155 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 7,
         "Name": "Squirtle"
@@ -695,7 +695,7 @@
     "baseAtttack": "171 attack points.",
     "baseDefense": "210 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 7,
         "Name": "Squirtle"
@@ -825,7 +825,7 @@
     "baseAtttack": "45 attack points.",
     "baseDefense": "94 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 10,
         "Name": "Caterpie"
@@ -908,7 +908,7 @@
     "baseAtttack": "167 attack points.",
     "baseDefense": "151 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 10,
         "Name": "Caterpie"
@@ -1046,7 +1046,7 @@
     "baseAtttack": "46 attack points.",
     "baseDefense": "86 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 13,
         "Name": "Weedle"
@@ -1129,7 +1129,7 @@
     "baseAtttack": "169 attack points.",
     "baseDefense": "150 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 13,
         "Name": "Weedle"
@@ -1283,7 +1283,7 @@
     "baseAtttack": "117 attack points.",
     "baseDefense": "108 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 16,
         "Name": "Pidgey"
@@ -1428,7 +1428,7 @@
     "baseAtttack": "161 attack points.",
     "baseDefense": "144 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 19,
         "Name": "Rattata"
@@ -1574,7 +1574,7 @@
     "baseAtttack": "182 attack points.",
     "baseDefense": "135 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 21,
         "Name": "Spearow"
@@ -1718,7 +1718,7 @@
     "baseAtttack": "167 attack points.",
     "baseDefense": "158 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 23,
         "Name": "Ekans"
@@ -1785,7 +1785,7 @@
     "baseAtttack": "112 attack points.",
     "baseDefense": "101 defense points.",
     "baseFleeRate": "10% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 172,
         "Name": "Pichu"
@@ -1862,7 +1862,7 @@
     "baseAtttack": "193 attack points.",
     "baseDefense": "165 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 172,
         "Name": "Pichu"
@@ -2008,7 +2008,7 @@
     "baseAtttack": "182 attack points.",
     "baseDefense": "202 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 27,
         "Name": "Sandshrew"
@@ -2156,7 +2156,7 @@
     "baseAtttack": "117 attack points.",
     "baseDefense": "126 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 29,
         "Name": "Nidoran"
@@ -2240,7 +2240,7 @@
     "baseAtttack": "180 attack points.",
     "baseDefense": "174 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 29,
         "Name": "Nidoran"
@@ -2392,7 +2392,7 @@
     "baseAtttack": "137 attack points.",
     "baseDefense": "112 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 32,
         "Name": "Nidoran"
@@ -2476,7 +2476,7 @@
     "baseAtttack": "204 attack points.",
     "baseDefense": "157 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 32,
         "Name": "Nidoran"
@@ -2549,7 +2549,7 @@
     "baseAtttack": "107 attack points.",
     "baseDefense": "116 defense points.",
     "baseFleeRate": "10% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 173,
         "Name": "Cleffa"
@@ -2628,7 +2628,7 @@
     "baseAtttack": "178 attack points.",
     "baseDefense": "171 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 173,
         "Name": "Cleffa"
@@ -2780,7 +2780,7 @@
     "baseAtttack": "169 attack points.",
     "baseDefense": "204 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 37,
         "Name": "Vulpix"
@@ -2850,7 +2850,7 @@
     "baseAtttack": "80 attack points.",
     "baseDefense": "44 defense points.",
     "baseFleeRate": "10% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 174,
         "Name": "Igglybuff"
@@ -2930,7 +2930,7 @@
     "baseAtttack": "156 attack points.",
     "baseDefense": "93 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 174,
         "Name": "Igglybuff"
@@ -3088,7 +3088,7 @@
     "baseAtttack": "161 attack points.",
     "baseDefense": "153 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 41,
         "Name": "Zubat"
@@ -3252,7 +3252,7 @@
     "baseAtttack": "153 attack points.",
     "baseDefense": "139 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 43,
         "Name": "Oddish"
@@ -3339,7 +3339,7 @@
     "baseAtttack": "202 attack points.",
     "baseDefense": "170 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 43,
         "Name": "Oddish"
@@ -3497,7 +3497,7 @@
     "baseAtttack": "165 attack points.",
     "baseDefense": "146 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 46,
         "Name": "Paras"
@@ -3647,7 +3647,7 @@
     "baseAtttack": "179 attack points.",
     "baseDefense": "150 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 48,
         "Name": "Venonat"
@@ -3789,7 +3789,7 @@
     "baseAtttack": "167 attack points.",
     "baseDefense": "147 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 50,
         "Name": "Diglett"
@@ -3923,7 +3923,7 @@
     "baseAtttack": "150 attack points.",
     "baseDefense": "139 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 52,
         "Name": "Meowth"
@@ -4065,7 +4065,7 @@
     "baseAtttack": "191 attack points.",
     "baseDefense": "163 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 54,
         "Name": "Psyduck"
@@ -4207,7 +4207,7 @@
     "baseAtttack": "207 attack points.",
     "baseDefense": "144 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 56,
         "Name": "Mankey"
@@ -4355,7 +4355,7 @@
     "baseAtttack": "227 attack points.",
     "baseDefense": "166 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 58,
         "Name": "Growlithe"
@@ -4505,7 +4505,7 @@
     "baseAtttack": "130 attack points.",
     "baseDefense": "130 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 60,
         "Name": "Poliwag"
@@ -4595,7 +4595,7 @@
     "baseAtttack": "182 attack points.",
     "baseDefense": "187 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 60,
         "Name": "Poliwag"
@@ -4738,7 +4738,7 @@
     "baseAtttack": "232 attack points.",
     "baseDefense": "138 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 63,
         "Name": "Abra"
@@ -4816,7 +4816,7 @@
     "baseAtttack": "271 attack points.",
     "baseDefense": "194 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 63,
         "Name": "Abra"
@@ -4966,7 +4966,7 @@
     "baseAtttack": "177 attack points.",
     "baseDefense": "130 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 66,
         "Name": "Machop"
@@ -5045,7 +5045,7 @@
     "baseAtttack": "234 attack points.",
     "baseDefense": "162 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 66,
         "Name": "Machop"
@@ -5203,7 +5203,7 @@
     "baseAtttack": "172 attack points.",
     "baseDefense": "95 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 69,
         "Name": "Bellsprout"
@@ -5286,7 +5286,7 @@
     "baseAtttack": "207 attack points.",
     "baseDefense": "138 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 69,
         "Name": "Bellsprout"
@@ -5444,7 +5444,7 @@
     "baseAtttack": "166 attack points.",
     "baseDefense": "237 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 72,
         "Name": "Tentacool"
@@ -5604,7 +5604,7 @@
     "baseAtttack": "164 attack points.",
     "baseDefense": "196 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 74,
         "Name": "Geodude"
@@ -5690,7 +5690,7 @@
     "baseAtttack": "211 attack points.",
     "baseDefense": "229 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 74,
         "Name": "Geodude"
@@ -5842,7 +5842,7 @@
     "baseAtttack": "207 attack points.",
     "baseDefense": "167 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 77,
         "Name": "Ponyta"
@@ -6000,7 +6000,7 @@
     "baseAtttack": "177 attack points.",
     "baseDefense": "194 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 79,
         "Name": "Slowpoke"
@@ -6162,7 +6162,7 @@
     "baseAtttack": "223 attack points.",
     "baseDefense": "182 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 81,
         "Name": "Magnemite"
@@ -6375,7 +6375,7 @@
     "baseAtttack": "218 attack points.",
     "baseDefense": "145 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 84,
         "Name": "Doduo"
@@ -6518,7 +6518,7 @@
     "baseAtttack": "139 attack points.",
     "baseDefense": "184 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 86,
         "Name": "Seel"
@@ -6662,7 +6662,7 @@
     "baseAtttack": "190 attack points.",
     "baseDefense": "184 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 88,
         "Name": "Grimer"
@@ -6805,7 +6805,7 @@
     "baseAtttack": "186 attack points.",
     "baseDefense": "323 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 90,
         "Name": "Shellder"
@@ -6961,7 +6961,7 @@
     "baseAtttack": "223 attack points.",
     "baseDefense": "112 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 92,
         "Name": "Gastly"
@@ -7045,7 +7045,7 @@
     "baseAtttack": "261 attack points.",
     "baseDefense": "156 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 92,
         "Name": "Gastly"
@@ -7265,7 +7265,7 @@
     "baseAtttack": "144 attack points.",
     "baseDefense": "215 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 96,
         "Name": "Drowzee"
@@ -7407,7 +7407,7 @@
     "baseAtttack": "240 attack points.",
     "baseDefense": "214 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 98,
         "Name": "Krabby"
@@ -7545,7 +7545,7 @@
     "baseAtttack": "173 attack points.",
     "baseDefense": "179 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 100,
         "Name": "Voltorb"
@@ -7698,7 +7698,7 @@
     "baseAtttack": "233 attack points.",
     "baseDefense": "158 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 102,
         "Name": "Exeggcute"
@@ -7840,7 +7840,7 @@
     "baseAtttack": "144 attack points.",
     "baseDefense": "200 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 104,
         "Name": "Cubone"
@@ -7909,7 +7909,7 @@
     "baseAtttack": "224 attack points.",
     "baseDefense": "211 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 236,
         "Name": "Tyrogue"
@@ -7983,7 +7983,7 @@
     "baseAtttack": "193 attack points.",
     "baseDefense": "212 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 236,
         "Name": "Tyrogue"
@@ -8176,7 +8176,7 @@
     "baseAtttack": "174 attack points.",
     "baseDefense": "221 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 109,
         "Name": "Koffing"
@@ -8332,7 +8332,7 @@
     "baseAtttack": "222 attack points.",
     "baseDefense": "206 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 111,
         "Name": "Rhyhorn"
@@ -8665,7 +8665,7 @@
     "baseAtttack": "187 attack points.",
     "baseDefense": "182 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 116,
         "Name": "Horsea"
@@ -8813,7 +8813,7 @@
     "baseAtttack": "175 attack points.",
     "baseDefense": "154 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 118,
         "Name": "Goldeen"
@@ -8961,7 +8961,7 @@
     "baseAtttack": "210 attack points.",
     "baseDefense": "184 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 120,
         "Name": "Staryu"
@@ -9172,7 +9172,7 @@
     "baseAtttack": "223 attack points.",
     "baseDefense": "182 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 238,
         "Name": "Smoochum"
@@ -9239,7 +9239,7 @@
     "baseAtttack": "198 attack points.",
     "baseDefense": "173 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 239,
         "Name": "Elekid"
@@ -9311,7 +9311,7 @@
     "baseAtttack": "206 attack points.",
     "baseDefense": "169 defense points.",
     "baseFleeRate": "9% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 240,
         "Name": "Magby"
@@ -9560,7 +9560,7 @@
     "baseAtttack": "237 attack points.",
     "baseDefense": "197 defense points.",
     "baseFleeRate": "7% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 129,
         "Name": "Magikarp"
@@ -9817,7 +9817,7 @@
     "baseAtttack": "205 attack points.",
     "baseDefense": "177 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 133,
         "Name": "Eevee"
@@ -9879,7 +9879,7 @@
     "baseAtttack": "232 attack points.",
     "baseDefense": "201 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 133,
         "Name": "Eevee"
@@ -9946,7 +9946,7 @@
     "baseAtttack": "246 attack points.",
     "baseDefense": "204 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 133,
         "Name": "Eevee"
@@ -10239,7 +10239,7 @@
     "baseAtttack": "220 attack points.",
     "baseDefense": "203 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 140,
         "Name": "Kabuto"
@@ -10692,7 +10692,7 @@
     "baseAtttack": "163 attack points.",
     "baseDefense": "138 defense points.",
     "baseFleeRate": "6% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 147,
         "Name": "Dratini"
@@ -10776,7 +10776,7 @@
     "baseAtttack": "263 attack points.",
     "baseDefense": "201 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 147,
         "Name": "Dratini"
@@ -11058,7 +11058,7 @@
     "baseAtttack": "122 attack points.",
     "baseDefense": "155 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 152,
         "Name": "Chikorita"
@@ -11128,7 +11128,7 @@
     "baseAtttack": "168 attack points.",
     "baseDefense": "202 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 152,
         "Name": "Chikorita"
@@ -11256,7 +11256,7 @@
     "baseAtttack": "158 attack points.",
     "baseDefense": "129 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 155,
         "Name": "Cyndaquil"
@@ -11322,7 +11322,7 @@
     "baseAtttack": "223 attack points.",
     "baseDefense": "176 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 155,
         "Name": "Cyndaquil"
@@ -11444,7 +11444,7 @@
     "baseAtttack": "150 attack points.",
     "baseDefense": "151 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 158,
         "Name": "Totodile"
@@ -11507,7 +11507,7 @@
     "baseAtttack": "205 attack points.",
     "baseDefense": "197 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 158,
         "Name": "Totodile"
@@ -11617,7 +11617,7 @@
     "baseAtttack": "148 attack points.",
     "baseDefense": "130 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 161,
         "Name": "Sentret"
@@ -11735,7 +11735,7 @@
     "baseAtttack": "145 attack points.",
     "baseDefense": "179 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 163,
         "Name": "Hoothoot"
@@ -11857,7 +11857,7 @@
     "baseAtttack": "107 attack points.",
     "baseDefense": "209 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 165,
         "Name": "Ledyba"
@@ -11979,7 +11979,7 @@
     "baseAtttack": "161 attack points.",
     "baseDefense": "128 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 167,
         "Name": "Spinarak"
@@ -12040,7 +12040,7 @@
     "baseAtttack": "194 attack points.",
     "baseDefense": "178 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 41,
         "Name": "Zubat"
@@ -12162,7 +12162,7 @@
     "baseAtttack": "146 attack points.",
     "baseDefense": "146 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 170,
         "Name": "Chinchou"
@@ -12530,7 +12530,7 @@
     "baseAtttack": "139 attack points.",
     "baseDefense": "191 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 175,
         "Name": "Togepi"
@@ -12642,7 +12642,7 @@
     "baseAtttack": "192 attack points.",
     "baseDefense": "146 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 177,
         "Name": "Natu"
@@ -12746,7 +12746,7 @@
     "baseAtttack": "145 attack points.",
     "baseDefense": "112 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 179,
         "Name": "Mareep"
@@ -12802,7 +12802,7 @@
     "baseAtttack": "211 attack points.",
     "baseDefense": "172 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 179,
         "Name": "Mareep"
@@ -12861,7 +12861,7 @@
     "baseAtttack": "169 attack points.",
     "baseDefense": "189 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 43,
         "Name": "Oddish"
@@ -12979,7 +12979,7 @@
     "baseAtttack": "112 attack points.",
     "baseDefense": "152 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 183,
         "Name": "Marill"
@@ -13080,7 +13080,7 @@
     "baseAtttack": "174 attack points.",
     "baseDefense": "192 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 60,
         "Name": "Poliwag"
@@ -13200,7 +13200,7 @@
     "baseAtttack": "91 attack points.",
     "baseDefense": "127 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 187,
         "Name": "Hoppip"
@@ -13262,7 +13262,7 @@
     "baseAtttack": "118 attack points.",
     "baseDefense": "197 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 187,
         "Name": "Hoppip"
@@ -13418,7 +13418,7 @@
     "baseAtttack": "185 attack points.",
     "baseDefense": "148 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 191,
         "Name": "Sunkern"
@@ -13572,7 +13572,7 @@
     "baseAtttack": "152 attack points.",
     "baseDefense": "152 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 194,
         "Name": "Wooper"
@@ -13628,7 +13628,7 @@
     "baseAtttack": "261 attack points.",
     "baseDefense": "194 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 133,
         "Name": "Eevee"
@@ -13685,7 +13685,7 @@
     "baseAtttack": "126 attack points.",
     "baseDefense": "250 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 133,
         "Name": "Eevee"
@@ -13793,7 +13793,7 @@
     "baseAtttack": "177 attack points.",
     "baseDefense": "194 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 79,
         "Name": "Slowpoke"
@@ -14082,7 +14082,7 @@
     "baseAtttack": "161 attack points.",
     "baseDefense": "242 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 204,
         "Name": "Pineco"
@@ -14232,7 +14232,7 @@
     "baseAtttack": "148 attack points.",
     "baseDefense": "333 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 95,
         "Name": "Onix"
@@ -14336,7 +14336,7 @@
     "baseAtttack": "212 attack points.",
     "baseDefense": "137 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 209,
         "Name": "Snubbull"
@@ -14445,7 +14445,7 @@
     "baseAtttack": "236 attack points.",
     "baseDefense": "191 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 123,
         "Name": "Scyther"
@@ -14688,7 +14688,7 @@
     "baseAtttack": "236 attack points.",
     "baseDefense": "144 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 216,
         "Name": "Teddiursa"
@@ -14801,7 +14801,7 @@
     "baseAtttack": "139 attack points.",
     "baseDefense": "209 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 218,
         "Name": "Slugma"
@@ -14909,7 +14909,7 @@
     "baseAtttack": "181 attack points.",
     "baseDefense": "147 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 220,
         "Name": "Swinub"
@@ -15063,7 +15063,7 @@
     "baseAtttack": "197 attack points.",
     "baseDefense": "141 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 223,
         "Name": "Remoraid"
@@ -15328,7 +15328,7 @@
     "baseAtttack": "224 attack points.",
     "baseDefense": "159 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 228,
         "Name": "Houndour"
@@ -15380,7 +15380,7 @@
     "baseAtttack": "194 attack points.",
     "baseDefense": "194 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 116,
         "Name": "Horsea"
@@ -15488,7 +15488,7 @@
     "baseAtttack": "214 attack points.",
     "baseDefense": "214 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 231,
         "Name": "Phanpy"
@@ -15536,7 +15536,7 @@
     "baseAtttack": "198 attack points.",
     "baseDefense": "183 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 137,
         "Name": "Porygon"
@@ -15751,7 +15751,7 @@
     "baseAtttack": "173 attack points.",
     "baseDefense": "214 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 236,
         "Name": "Tyrogue"
@@ -16058,7 +16058,7 @@
     "baseAtttack": "129 attack points.",
     "baseDefense": "229 defense points.",
     "baseFleeRate": "5% chance to flee.",
-    "Previous evolution(s)": [
+    "prevEvo": [
       {
         "Number": 113,
         "Name": "Chansey"
